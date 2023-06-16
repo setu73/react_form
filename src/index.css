@@ -1,0 +1,44 @@
+body{
+    background-color:#E8A9A9;
+}
+.container {
+    max-width: 500px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: #C2DEDC;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+ 
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  flex: 0 0 120px; /* Adjust the width of the label as needed */
+  margin-right: 10px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+  flex: 1;
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+  
+  
